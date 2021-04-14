@@ -51,8 +51,8 @@
     ],
     "redirects": [
       {
-        "source": "/",
-        "destination": "/28mars/",
+        "source": "**",
+        "destination": "https://marcheclimat.fr/9mai/",
         "type": 301
       }
     ]
